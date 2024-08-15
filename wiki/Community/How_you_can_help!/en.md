@@ -38,16 +38,18 @@ The following outlines how you can get started helping others on the forum:
 - Read through the forums pinned posts to learn the subforum-specific rules and any useful info that may be there.
 - Use the `Mark forum as read` button on the top.
 - Follow any new threads, reading each one and help out when you can — you can use the unread icons to make sure you keep up.
-- Read the [available guides](/wiki/Guides) to polish-up your osu! knowledge. If the guides in there don't satisfy you, then you can try contributing to them!
+- Read the [available guides](/wiki/Guides) to polish up your osu! knowledge. If the guides in there don't satisfy you, then you can try contributing to them!
 
 ## Help check/mod beatmaps!
 
 osu! has a dedicated team of reviewers, the [Beatmap Nominators](/wiki/People/Beatmap_Nominators), to check if submitted [beatmaps](/wiki/Beatmap) are ready to be ranked and played by everyone. However, that doesn't mean you cannot contribute to this sector:
 
-- Look through or search the [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?s=pending) listing for any artists or songs you like and/or want to contribute to.
-- Play beatmaps in the [*Pending* or *Work-in-progress*](/wiki/Beatmap/Category#wip-and-pending) stages and leave feedback in the beatmap's discussion page.
-- Read the [Modding Guide](/wiki/Modding) and the [Ranking Criteria](/wiki/Ranking_criteria) to know the basics of technical modding and what makes a beatmap rankable.
+- Read the [Modding Guide](/wiki/Modding), the [Ranking Criteria](/wiki/Ranking_criteria), and about [common mistakes made when modding](/wiki/Guides/Common_modding_mistakes) to know the basics of technical modding and what makes a beatmap rankable.
 - Join the `#mapping` and `#modreqs` channels in the in-game chat and either join in on the conversation or just follow along.
+- If you find a map you like, leave feedback on it to help improve the map's quality. Make sure the mapper is accepting feedback first, as otherwise, you risk not getting a response. This can be done by:
+ - Reading the [beatmap discussion](/wiki/Beatmap_discussion) and checking to see if the mapper has responded to mods recently.
+ - Checking the beatmap's description for Beatmap Nominators (usually formatted like `Nominator_1/Nominator_2`) or other signs the map is aiming for Ranked.
+ - Checking the mapper's forum post history to see if they've requested the beatmap for modding in modding queues.
 - If you have the time and dedication, make a [Modding Queue](https://osu.ppy.sh/community/forums/60) to give beatmap creators a place to request you for mods.
 
 ## Give feedback on player progress or skins!
