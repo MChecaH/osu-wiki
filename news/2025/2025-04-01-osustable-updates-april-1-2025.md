@@ -50,6 +50,6 @@ Can't get a full combo score on a map? No problem! Thanks to Project Hated, if y
 
 Jokes aside, for the readers who've got this far, we'd like to wish you a **happy April Fools' Day!** Fret not, for osu!(lazer)'s development is still alive and well. Better than ever in fact, so if you still haven't, [go give it a shot](https://osu.ppy.sh/home/download)!
 
-For those who're genuinely interested in staying up to date with the latest osu!(lazer) news, please check [last week's update](https://osu.ppy.sh/home/news/2025-03-23-osulazer-updates-march-21-2025).
+If you're genuinely interested in staying up to date with the latest osu!(lazer) news, please check [last week's update](https://osu.ppy.sh/home/news/2025-03-23-osulazer-updates-march-21-2025). That one is real — pinky promised!
 
 —RandomeLoL
