@@ -31,15 +31,6 @@ So worry not — we hear you! In the following post, we'll go over some new chan
 
 ### Other
 
-- **Minor design adjustments have been made to the leaderboards and multiplayer lounge.** The scale of rooms in multiplayer lounge has been lowered, and the leaderboard was adjusted slightly, although a major redesign of the whole song select screen is slated for next release (fingers crossed).
-- **The taskbar will now flash when a multiplayer game starts.** This is a life-saver for those who constantly tab out of the game.
-- **Beatmap user tags have been added, along with the ability to vote on them after completing a play.** With the shutdown of [apollodw](https://osu.ppy.sh/users/9558549)'s [OMDB](https://omdb.nyahh.net/), the various tags have been ported over to the game itself, and anyone who sets a play over a certain threshold will be able to vote on the tags.
-- **The tip pressure threshold is now configurable in the tablet settings.** This can both serve as a utility for niche play styles, or it might give a dying tablet some extra life span.
-- **Team beatmap leaderboards have been added.** You can now compete exclusively with your osu teammates!
-- **More functionality has been added upon right-clicking a user in the chat window.** You can now right-click on anyone in chat to spectate them, or invite them to your multiplayer room.
-
-s
-
 - **osu!taiko will no longer be a rankable ruleset.** Given its dwindling player engagement, the team will be focusing on the rest of game modes until Hivie looks into it tomorrow.
 - **Micro-stutters have been added as an official feature.** To level the field between players, the game will now automatically add stutters on players who far surpass the game's minimum and recommended requirements. This will allow players from all hardware generations to compete under a similar set of conditions.
 - **A new leaderboard has been added.** Users who link their GitHub accounts, will automatically join the brand-new GitHub post leaderboard. Players will be able to tally the amount of posts, pull requests, discussions, and issues they participate in. This will encourage users to interact with the game's development, gaining some performance points in the process. 
