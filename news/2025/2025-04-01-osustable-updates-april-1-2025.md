@@ -14,6 +14,12 @@ For as many efforts from the osu! developers have been put into making osu!(laze
 
 So worry not — we hear you! In the following post, we'll go over some new changes **coming to both osu! and osu!(lazer)** in the hopes of bringing a glimmer of light to a once thought to be feature-locked client! Nobody is getting left behind.
 
+## Updates
+
+The following assortment of changes will be coming to all platforms. Stable, osu!(lazer), and the osu! web will all be impacted by these changes unless stated otherwise. Given the impact of some of these changes, we've decided to slowly roll them out.
+
+Over the span of **1.9904179 years**, users will be given the option to update to the latest version of the game. Based on community feedback, some of these features will not see the light of day on later deployments.
+
 ### Editor
 
 - **The session may be terminated if [BanchoBot](https://osu.ppy.sh/users/3) dislikes the map.** This will ensure a minimum level of quality for all maps being uploaded to the platform. Moreover, BanchoBot's very reasonable standards will force mappers to learn, else they risk losing access to the editor.
@@ -38,7 +44,7 @@ So worry not — we hear you! In the following post, we'll go over some new chan
 - **A new leaderboard has been added.** Users who link their GitHub accounts, will automatically join the brand-new GitHub post leaderboard. Players will be able to tally the amount of posts, pull requests, discussions, and issues they participate in. This will encourage users to interact with the game's development, gaining some performance points in the process. 
 - **Removed Herobrine.**
 
-### Project Hated
+## Project Hated
 
 ![](/wiki/shared/news/2025-04-01-osustable-updates-april-1-2025/project-hated-banner.jpg)
 
