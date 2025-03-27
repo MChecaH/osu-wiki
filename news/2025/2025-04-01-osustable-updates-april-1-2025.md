@@ -16,22 +16,13 @@ So worry not — we hear you! In the following post, we'll go over some new chan
 
 ### Editor
 
-- **The "discard unsaved changes" operation has been added to the editor.** Sometimes those new changes you've made just don't work out.
-- **A new skinnable Kiai/star fountain sound effect has been added.** The new sound effect can be heard on the osu! argon skins, and you can use `fountain-shoot.wav` to place a sound of your own!
-
-<div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/news/2025-03-23-kiai-sfx.mp4" type="video/mp4" preload="none">
-    </video>
-</div>
-
-- **Editor grid spacing can now be set up to 256 pixels.** Hate the editor grid? You can now get rid of it entirely.
-- **Right-click-for-new-combo and right-click-delete combinations have been added back in object placement mode.** Deleting objects has never been so easy. While in selection mode, you'll still have to hold `Shift` to delete things quickly due to regular right-click opening a context menu.
+- **The session may be terminated if [BanchoBot](https://osu.ppy.sh/users/3) dislikes the map.** This will ensure a minimum level of quality for all maps being uploaded to the platform. Moreover, BanchoBot's very reasonable standards will force mappers to learn, else they risk losing access to the editor.
+- **Map previews have been removed.** Users will be met with a brand new osu! Integrated Development Environment (o!IDE) where they'll be able to manually edit their beatmaps from `.osu` files instead. 
 
 ### Gameplay
 
-- s
-- s
+- **A new type of note has been added to osu!taiko.** As previously spoiled by [Pentaclar](https://x.com/bladeepolska/status/1903423461042561120), these notes will randomly appear on the playfield and will instantly fail the player if they had the misfortune to encounter one.
+- **The Relax mod will award performance points.** Many players have requested the ability to submit their scores and be awarded for them. While it will come with a hefty penalization, this will allow players from all skill ranges to compete even on the hardest of beatmaps!
 - **osu!mania will only allow horizontal scroll moving on.** This will allow players to more easily transition between osu!taiko and osu!mania, as both rulesets would share similar reading skills.
 
 ![](/wiki/shared/news/2025-04-01-osustable-updates-april-1-2025/mania-playfield-comparison.jpg)
@@ -50,6 +41,8 @@ So worry not — we hear you! In the following post, we'll go over some new chan
 s
 
 - **osu!taiko will no longer be a rankable ruleset.** Given its dwindling player engagement, the team will be focusing on the rest of game modes until Hivie looks into it tomorrow.
+- **Micro-stutters have been added as an official feature.** To level the field between players, the game will now automatically add stutters on players who far surpass the game's minimum and recommended requirements. This will allow players from all hardware generations to compete under a similar set of conditions.
+- **A new leaderboard has been added.** Users who link their GitHub accounts, will automatically join the brand-new GitHub post leaderboard. Players will be able to tally the amount of posts, pull requests, discussions, and issues they participate in. This will encourage users to interact with the game's development, gaining some performance points in the process. 
 - **Removed Herobrine.**
 
 ### Project Hated
