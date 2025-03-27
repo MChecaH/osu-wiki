@@ -34,14 +34,14 @@ Over the span of **1.9904179 years**, users will be given the option to update t
 
 ![](/wiki/shared/news/2025-04-01-osustable-updates-april-1-2025/mania-playfield-comparison.jpg)
 
-- **The difficulty settings in mod select are now properly highlighted for all applicable mods.** On some mods (Hard Rock being an example), you weren't able to see clearly that they change difficulty settings such as OD (overall difficulty) and AR (approach rate) until this update.
+- ****
 - **Rates now award performance points — with a catch!** Only *downrates* are affected by this change. Any rate between 1.0x and 1.5x or above will not be eligible for it.
 
 ### Other
 
 - **osu!taiko will no longer be a rankable ruleset.** Given its dwindling player engagement, the team will be focusing on the rest of game modes until Hivie looks into it tomorrow.
 - **Micro-stutters have been added as an official feature.** To level the field between players, the game will now automatically add stutters on players who far surpass the game's minimum and recommended requirements. This will allow players from all hardware generations to compete under a similar set of conditions.
-- **A new leaderboard has been added.** Users who link their GitHub accounts, will automatically join the brand-new GitHub post leaderboard. Players will be able to tally the amount of posts, pull requests, discussions, and issues they participate in. This will encourage users to interact with the game's development, gaining some performance points in the process. 
+- **A new GitHub post leaderboard has been added.** Users who link their GitHub accounts, will automatically join the brand-new GitHub post leaderboard. Players will be able to tally the amount of posts, pull requests, discussions, and issues they participate in. This will encourage users to interact with the game's development, gaining some performance points in the process for every successful contribution.
 - **Removed Herobrine.**
 
 ## Project Hated
@@ -60,4 +60,4 @@ Jokes aside, for the readers who've got this far, we'd like to wish you a **happ
 
 If you're genuinely interested in staying up to date with the latest osu!(lazer) news, please check [last week's update](https://osu.ppy.sh/home/news/2025-03-23-osulazer-updates-march-21-2025). That one is real — pinky promised!
 
-—RandomeLoL
+—0x84f, RandomeLoL & Walavouchey
