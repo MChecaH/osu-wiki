@@ -34,7 +34,7 @@ Over the span of **1.9904179 years**, users will be given the option to update t
 
 ![](/wiki/shared/news/2025-04-01-osustable-updates-april-1-2025/mania-playfield-comparison.jpg)
 
-- ****
+- **HP has been removed.** osu! has always been seen as a "combo game", where a player's consistency was often the most important factor in how well they'd perform. Therefore, all game modes will have their HP removed, and any miss will instantly cause players to fail. No need to use Sudden Death anymore!
 - **Rates now award performance points — with a catch!** Only *downrates* are affected by this change. Any rate between 1.0x and 1.5x or above will not be eligible for it.
 
 ### Other
@@ -56,8 +56,8 @@ Can't get a full combo score on a map? No problem! Thanks to Project Hated, if y
 
 ---
 
-Jokes aside, for the readers who've got this far, we'd like to wish you a **happy April Fools' Day!** Fret not, for osu!(lazer)'s development is still alive and well. Better than ever in fact, so if you still haven't, [go give it a shot](https://osu.ppy.sh/home/download)!
+So, what are you waiting for? Make sure to give [osu!(stable)](https://m1.ppy.sh/r/osu!install.exe) and [osu!(lazer)](https://github.com/ppy/osu/releases/latest/download/install.exe) a try! The more active a player is, the quicker they'll be prompted to update their game.
 
-If you're genuinely interested in staying up to date with the latest osu!(lazer) news, please check [last week's update](https://osu.ppy.sh/home/news/2025-03-23-osulazer-updates-march-21-2025). That one is real — pinky promised!
+For those interested in osu!(lazer) exclusive updates, please check [last week's update](https://osu.ppy.sh/home/news/2025-03-23-osulazer-updates-march-21-2025) news post. While it stable may not get any more updates moving on, rest assured for osu!(lazer) will be getting them in its stead!
 
 —0x84f, RandomeLoL & Walavouchey
