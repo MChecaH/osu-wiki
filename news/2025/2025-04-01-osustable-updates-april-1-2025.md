@@ -17,7 +17,8 @@ So worry not — we hear you! In the following post, we'll go over some new chan
 ### Editor
 
 - **The session may be terminated if [BanchoBot](https://osu.ppy.sh/users/3) dislikes the map.** This will ensure a minimum level of quality for all maps being uploaded to the platform. Moreover, BanchoBot's very reasonable standards will force mappers to learn, else they risk losing access to the editor.
-- **Map previews have been removed.** Users will be met with a brand new osu! Integrated Development Environment (o!IDE) where they'll be able to manually edit their beatmaps from `.osu` files instead. 
+- **Map previews have been removed.** Users will be met with a brand new osu! Integrated Development Environment (o!IDE) where they'll be able to manually edit their beatmaps from `.osu` files instead.
+- **Objects will not be able to be placed on coordinates with prime numbers.** We believe prime numbers are only really useful on [public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography) and have no place in a rhythm game like osu!. Mappers can find a comprehensive list of banned numbers [here](https://www.mathematical.com/primelist1to100kk.html). Any object placed on a banned coordinate will cause the game to crash and any progress, saved or unsaved, will be lost.
 
 ### Gameplay
 
@@ -28,6 +29,7 @@ So worry not — we hear you! In the following post, we'll go over some new chan
 ![](/wiki/shared/news/2025-04-01-osustable-updates-april-1-2025/mania-playfield-comparison.jpg)
 
 - **The difficulty settings in mod select are now properly highlighted for all applicable mods.** On some mods (Hard Rock being an example), you weren't able to see clearly that they change difficulty settings such as OD (overall difficulty) and AR (approach rate) until this update.
+- **Rates now award performance points — with a catch!** Only *downrates* are affected by this change. Any rate between 1.0x and 1.5x or above will not be eligible for it.
 
 ### Other
 
