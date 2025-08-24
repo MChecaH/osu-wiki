@@ -69,6 +69,10 @@ All in all, most users showed to be in favour of increasing quality enforcement 
 
 ![](/wiki/shared/news/2025-07-29-the-state-of-ranked-results/bar-quality.png)
 
+While the distribution across all modes seem to be all above average, it is worth noting that osu! in particular has the least amount of players who are enjoying the quality of newly ranked maps. This is easily seen by the sharp decrease of votes between 8 and 10, while having a noticeable increase between 3 and 4 when comparing to other modes.
+
+All in all, the reception of newly ranked maps is mostly positive all across the board, with most of the votes landing between 7 and 8, with around **~40% of responses** falling between these numbers in the scale. Currently, the only conclusion we can draw is that the feeling towards newly ranked maps is mostly positive, but not overwhelmingly so.
+
 ### Ranked map amount
 
 ![](/wiki/shared/news/2025-07-29-the-state-of-ranked-results/pie-influx.png)
