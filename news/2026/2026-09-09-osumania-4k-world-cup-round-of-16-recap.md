@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania 4K World Cup 2026: Round of 16 Recap"
-date: 2026-09-09 12:00:00 +0000
+date: 2026-09-09 14:00:00 +0000
 series: world_cups
 ---
 
